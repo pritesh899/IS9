@@ -1,7 +1,7 @@
 Title: Intelligent Systems, Group 9 Project Proposal
 Author: Cameron Reid
-Author: [your name here]
-Author: [your name also here]
+Author: [Pritesh Ratnappagol]
+Author: [Siva Ganga Dheeraz Pinnamaneni]
 
 [TITLE]
 
